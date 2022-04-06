@@ -18,8 +18,8 @@ Another objective is to have notes for each problem to help out anyone jumping i
 My plan of action is as follows:
 
 1. Attempt the LeetCode problem on my own. If I don't make any progress within 20 minutes..
-2. Look over the constructors for the given data structure and try to solve it from there for another 20 minutes.
-3. If that doesn't help I'll research the solutio to better understand how to tackle the problem.
+2. Look over syntax resources and constructors for the given data structure and try to solve it from there for another 20 minutes or so.
+3. If that doesn't help I'll research the solution to better understand how to tackle the problem.
 4. Later on come back to the problem and try again.
 
 - [Personal GitHub Repository for Constructors/Notes](https://github.com/PhilipBDev/DSA-Reference)
