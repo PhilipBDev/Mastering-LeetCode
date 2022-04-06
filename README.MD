@@ -3,8 +3,8 @@ Grind 75 is a LeetCode study plan created by the the author of the famous Blind 
 The website itself starts off with 75 questions that covers all bases and expands up to 169 questions total for extra practice.
 A lot of these questions also come from Sean Prashad's LeetCode Patterns list.
 
-[Grind 75](https://www.techinterviewhandbook.org/grind75)
-[LeetCode Patterns](https://seanprashad.com/leetcode-patterns/)
+- [Grind 75](https://www.techinterviewhandbook.org/grind75)
+- [LeetCode Patterns](https://seanprashad.com/leetcode-patterns/)
 
 ---
 
