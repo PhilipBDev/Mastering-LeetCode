@@ -8,6 +8,7 @@ Resource: https://redquark.org/leetcode/0020-valid-parentheses/
 Stack: LIFO
     With this data structure, we are only going to store the left brackets. If we find a corresponding right bracket, we will then
     pop the left bracket out of the stack. Due to LIFO, it must be in order, so []() and [()] will be true based off the problem parameters.
+    If there are any left brackets left, the function will be false.
 
 Time Complexity: O(n)
 
