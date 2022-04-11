@@ -9,7 +9,7 @@ A lot of these questions also come from Sean Prashad's LeetCode Patterns list.
 ---
 
 This is a log to keep track of my personal growth learning data structures and algorithms using JavaScript.
-The goal is to thoroughly understand the base 75 questions, which should be enough to land an entry-level junior position.
+The goal is to thoroughly understand the base 75 questions, which should be enough to land an entry-level developer position.
 
 Another objective is to have notes for each problem to help out anyone jumping into LeetCode for the first time.
 
