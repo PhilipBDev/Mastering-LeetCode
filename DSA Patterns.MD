@@ -37,10 +37,13 @@ def sliding_window(nums):
             Contract the window
 ```
 
-## Stack
+Following are some ways you can identify that the given problem might require a sliding window:
+
+- The problem input is a linear data structure such as a linked list, array, or string
+- You’re asked to find the longest/shortest substring, subarray, or a desired value
 
 --
 
-```
+## Stack
 
-```
+--
