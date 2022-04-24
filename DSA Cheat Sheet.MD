@@ -24,8 +24,23 @@
 
 ## Sliding Window
 
----
+Sliding Window is an extension of the two pointer approach where we use two pointers (left and right) to create a “window”. The problem will ask us to return the maximum or minimum subrange that satisfies a given condition. Thus the “window” in between our left and right pointers will be that subrange we are looking for. The sliding window involves expanding and contracting our “window” to find the optimal range.
+
+# SLIDING WINDOW PSEUDOCODE
+
+```
+def sliding_window(nums):
+    Iterate over elements in our input
+        Expand the window
+        Meet the condition to stop expansion
+            Process the current window
+            Contract the window
+```
 
 ## Stack
 
 --
+
+```
+
+```
